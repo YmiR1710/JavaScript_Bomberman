@@ -7,6 +7,6 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-	background: url("../img/background.jpg") 100% 100% no-repeat;
-	background-size: cover;
+    background: url("../img/background.jpg") 100% 100% no-repeat;
+    background-size: cover;
 }
