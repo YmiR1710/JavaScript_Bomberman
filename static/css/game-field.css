@@ -1,0 +1,9 @@
+.game-field{
+    display: grid;
+    height: 86%;
+    width: 50%;
+    grid-template-columns: repeat(13, 1fr);
+    grid-template-rows: repeat(13, 1fr);
+    border: black 3px solid;
+    box-sizing: border-box;
+}
